@@ -1,3 +1,4 @@
+
 # GitHub Teacher
 
 Charting the knowledge of the books, just like someone found a map.
@@ -21,3 +22,4 @@ Developed and maintained various conference talks, online training, and in-perso
 ### Leadership
 
 Managed multiple asynchronous teams in the development, maintenance, and release of one web applications.
+
